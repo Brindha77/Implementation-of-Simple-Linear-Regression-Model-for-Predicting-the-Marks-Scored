@@ -17,9 +17,9 @@ Plot the scatter plot
 ### STEP 4 :
 Use mse,rmse,mae formmula to find
 ## Program:
-Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: R.BRINDHA
 RegisterNumber:212222230023
+Program to implement the simple linear regression model for predicting the marks scored.
 ### df.head()
 ```
 import pandas as pd
