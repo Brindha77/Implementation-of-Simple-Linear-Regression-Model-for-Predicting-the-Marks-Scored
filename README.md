@@ -18,7 +18,9 @@ Plot the scatter plot
 Use mse,rmse,mae formmula to find
 ## Program:
 Developed by: R.BRINDHA
+
 RegisterNumber:212222230023
+
 Program to implement the simple linear regression model for predicting the marks scored.
 ### df.head()
 ```
